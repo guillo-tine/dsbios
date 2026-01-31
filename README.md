@@ -1,4 +1,4 @@
-# DS-BIOS — Drug Shortage Bio-Intelligence System
+# DS-BIOS: Drug Shortage Bio-Intelligence System
 
 **DS-BIOS** is an AI-driven early warning system designed to identify U.S. prescription drugs at elevated risk of entering shortage. It integrates publicly available federal datasets to produce an interpretable, ranked watchlist that supports proactive planning by regulators, hospitals, and public health stakeholders.
 
